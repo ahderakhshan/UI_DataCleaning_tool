@@ -5,7 +5,7 @@ This project is for the user interface of a data correction tool. When neural ne
 2-By default, the json folder and the result similars folder are located in the path of the app file. That is, to run the program,
 these two folders must be placed next to the app file. But you can change these default settings by clicking on Jason Path
 button and similar path results and introduce your desired path to the program.<br />
-3-click the show errors button<br /?
+3-click the show errors button<br />
 4-now you should see the errors, by click on next or previous button you can see all of the erros<br />
 5-To correct a data, you must right-click on its image, then select a new data label in the window that is displayed to you.
 You can make sure that the data label has been modified when the border of the image turns green.<br />
