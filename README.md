@@ -2,7 +2,7 @@
 This project is for the user interface of a data correction tool. When neural networks are trained. Some training data may be mislabeled. Therefore, data cleaning techniques should be used to identify these data and provide the basis for correcting their labels.
 ## How to use this Application?
 1- first of all run python app.py<br />
-2-By default, the json folder and the similar mission are located in the path of the app file. That is, to run the program,
+2-By default, the json folder and the result similars folder are located in the path of the app file. That is, to run the program,
 these two folders must be placed next to the app file. But you can change these default settings by clicking on Jason Path
 button and similar path results and introduce your desired path to the program.<br />
 3-click the show errors button<br /?
