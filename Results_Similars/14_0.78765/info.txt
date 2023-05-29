@@ -1,0 +1,13 @@
+0:valid:D:/Projects/Vali/Date/Dataset/rabbi 14010520/waste_rabi_2_2/Crops/w/254_254_20220810_095818_3_8871.bmp
+D:/Projects/Vali/Date/Dataset/rabbi 14010520/salem_rabi_1/Crops/mashkook salem/100_100_20220810_105908_10_9.bmp
+D:/Projects/Vali/Date/Dataset/rabbi 14010520/waste_rabi_2_1/Crops/mashkook salem/213_213_20220810_095806_5_7299.bmp
+D:/Projects/Vali/Date/Dataset/rabbi 14010520/salem_rabi_1/Crops/h/187_187_20220810_110057_4_507.bmp
+D:/Projects/Vali/Date/Dataset/rabbi 14010520/salem_rabi_2_1/Crops/mashkook salem/56_56_20220810_110756_15_5939.bmp
+D:/Projects/Vali/Date/Dataset/rabbi 14010520/salem_rabi_1/Crops/mashkook salem/231_231_20220810_110110_2_1363.bmp
+D:/Projects/Vali/Date/Dataset/rabbi 14010520/salem_rabi_1/Crops/mashkook salem/69_69_20220810_105900_12_2470.bmp
+D:/Projects/Vali/Date/Dataset/rabbi 14010520/waste_rabi_1/Crops/mashkook kharab/99_99_20220810_075718_28_5451.bmp
+D:/Projects/Vali/Date/Dataset/rabbi 14010520/waste_rabi_2_1/Crops/mashkook salem/81_81_20220810_095438_4_8054.bmp
+D:/Projects/Vali/Date/Dataset/rabbi 14010520/salem_rabi_2_1/Crops/mashkook salem/53_53_20220810_110755_7_5886.bmp
+D:/Projects/Vali/Date/Dataset/rabbi 14010520/salem_rabi_1/Crops/h/205_205_20220810_110102_9_717.bmp
+D:/Projects/Vali/Date/Dataset/rabbi 14010520/salem_rabi_1/Crops/mashkook salem/43_43_20220810_105853_10_2184.bmp
+D:/Projects/Vali/Date/Dataset/rabbi 14010520/waste_rabi_1/Crops/mashkook salem/114_114_20220810_075722_4_3144.bmp

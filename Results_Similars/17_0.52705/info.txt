@@ -1,0 +1,13 @@
+0:valid:D:/Projects/Vali/Date/Dataset/rabbi 14010520/waste_rabi_2_2/Crops/w/279_279_20220810_095825_1_9091.bmp
+D:/Projects/Vali/Date/Dataset/rabbi 14010520/waste_rabi_1/Crops/mashkook kharab/238_238_20220810_080559_2_4223.bmp
+D:/Projects/Vali/Date/Dataset/rabbi 14010520/waste_rabi_1/Crops/w/222_222_20220810_080555_7_3981.bmp
+D:/Projects/Vali/Date/Dataset/rabbi 14010520/salem_rabi_1/Crops/mashkook salem/274_274_20220810_110121_1_2117.bmp
+D:/Projects/Vali/Date/Dataset/rabbi 14010520/waste_rabi_1/Crops/w/173_173_20220810_080541_5_3267.bmp
+D:/Projects/Vali/Date/Dataset/rabbi 14010520/salem_rabi_2_1/Crops/h/90_90_20220810_110805_5_6461.bmp
+D:/Projects/Vali/Date/Dataset/rabbi 14010520/salem_rabi_1/Crops/mashkook salem/206_206_20220810_110102_5_729.bmp
+D:/Projects/Vali/Date/Dataset/rabbi 14010520/salem_rabi_2_1/Crops/mashkook salem/58_58_20220810_110757_3_5965.bmp
+D:/Projects/Vali/Date/Dataset/rabbi 14010520/salem_rabi_1/Crops/h/217_217_20220810_111000_2_998.bmp
+D:/Projects/Vali/Date/Dataset/rabbi 14010520/waste_rabi_1/Crops/mashkook kharab/225_225_20220810_080555_8_4033.bmp
+D:/Projects/Vali/Date/Dataset/rabbi 14010520/waste_rabi_2_1/Crops/mashkook kharab/236_236_20220810_095813_2_7600.bmp
+D:/Projects/Vali/Date/Dataset/rabbi 14010520/salem_rabi_1/Crops/h/205_205_20220810_110102_9_717.bmp
+D:/Projects/Vali/Date/Dataset/rabbi 14010520/waste_rabi_2_1/Crops/w/59_59_20220810_095432_1_7842.bmp
